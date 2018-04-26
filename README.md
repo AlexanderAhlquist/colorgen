@@ -1,4 +1,5 @@
 # colorgen
+
 #In this document I am going to try to create a system in which three random numbers are generated in order to randomly generate a color which can exist on a color hex. This is just a conceptual part of an idea and a way for me to practice coding.
 
 import random
@@ -38,3 +39,4 @@ while Generate == "Ready":
 		print("Sorry, that's all I can do!")
 		print()
 		Generate = "Ready"
+
